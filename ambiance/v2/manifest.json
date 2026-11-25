@@ -1,0 +1,116 @@
+{
+  "pack": "ambiance",
+  "version": 2,
+  "created": "2026-11-25",
+  "source": "Google Flow (Veo 3.1 Fast) from ChatGPT stills, owner account",
+  "files": [
+    {
+      "file": "cafe.m4a",
+      "bytes": 974976,
+      "sha256": "04612d4f91b6830ea69d7231afa34f61f04297fc12693a4e52c2b6d5e8c97685",
+      "seconds": 60.1
+    },
+    {
+      "file": "cafe.mp4",
+      "bytes": 892302,
+      "sha256": "ed20e682ee52906384088c8c4d3093f5fb3e39f9f6f586176fbd38684a18cb61",
+      "seconds": 7.54
+    },
+    {
+      "file": "fire.m4a",
+      "bytes": 1049715,
+      "sha256": "350878c83f120f1926a4c798b701e9652b53a2214bf0cc57b68b5abb4bb1112a",
+      "seconds": 60.1
+    },
+    {
+      "file": "fire.mp4",
+      "bytes": 1112420,
+      "sha256": "dbf3125b6e639dd545c05a4961a8fe1ad32aeacea5e6f56d3e8219b573fbbc15",
+      "seconds": 7.54
+    },
+    {
+      "file": "forest.m4a",
+      "bytes": 979485,
+      "sha256": "555eef7d7587d342984c852dec4a9a6b19763a4f486b3eea6ed527ceb0a1dd17",
+      "seconds": 60.1
+    },
+    {
+      "file": "forest.mp4",
+      "bytes": 1661823,
+      "sha256": "299bbc67a5bd3b31f3717171e6ce7c3e01046dbf9ca282e2c69ef39f616bce48",
+      "seconds": 7.54
+    },
+    {
+      "file": "library.m4a",
+      "bytes": 994180,
+      "sha256": "21ace567a2efdfb9596e5d549b9a5ec2c958c6c50384bf4260bd4d3ec66af0e3",
+      "seconds": 61.1
+    },
+    {
+      "file": "library.mp4",
+      "bytes": 671551,
+      "sha256": "57936d1e3faf27ff93ef2970456c8c84e350d9fc4320d7a37d0813d04e22360b",
+      "seconds": 7.54
+    },
+    {
+      "file": "ocean.m4a",
+      "bytes": 975865,
+      "sha256": "a0f9d223ada89b4e5a722e4f4a0f6de4085fc8f1f457e247a01db9f21a193e8b",
+      "seconds": 60.1
+    },
+    {
+      "file": "ocean.mp4",
+      "bytes": 2356479,
+      "sha256": "833fccca6be6925efb89d422262f96270335bdd1d0cac3afb031a994ddc92326",
+      "seconds": 7.54
+    },
+    {
+      "file": "rain.m4a",
+      "bytes": 982806,
+      "sha256": "02a83d73f8e0c9e5e9486506e978b06769c36dc0a3120f74df1b4bf3bf72e5c2",
+      "seconds": 60.1
+    },
+    {
+      "file": "rain.mp4",
+      "bytes": 863713,
+      "sha256": "7229f2e5df8891b6b7a35bd9dfe2c017927c8155eccd6e6cdbe7a1d914cb7238",
+      "seconds": 7.54
+    },
+    {
+      "file": "summer_night.m4a",
+      "bytes": 975244,
+      "sha256": "c0b3528124429e6fdf6ece54cb475ebce19cfb446ba736f41a150c51d243bb38",
+      "seconds": 60.1
+    },
+    {
+      "file": "summer_night.mp4",
+      "bytes": 1030854,
+      "sha256": "eab43164b6eece0f46645794ebc38b348c98d0677092c59dd978e18dcdf1d7e4",
+      "seconds": 7.54
+    },
+    {
+      "file": "thunder.m4a",
+      "bytes": 982331,
+      "sha256": "c7e094a865c38298f148e032a617b492551fd7f27b12965227ba5e54ce1154bd",
+      "seconds": 60.1
+    },
+    {
+      "file": "thunder.mp4",
+      "bytes": 688489,
+      "sha256": "01aeb9d2c560bc940c9f183f982f405afc6b4dfc2ef45d42991c5ee0ef2dd289",
+      "seconds": 7.54
+    },
+    {
+      "file": "winter.m4a",
+      "bytes": 1081749,
+      "sha256": "c6f0e0eea6c6cb432a7a853f5257d6314a04e036e91794ff1df4d26ac69bca5d",
+      "seconds": 60.1
+    },
+    {
+      "file": "winter.mp4",
+      "bytes": 898974,
+      "sha256": "3b7c1a035dbe3fdd2e4047048922631811d044ff01f721c9bc546d3f40c020a9",
+      "seconds": 7.54
+    }
+  ]
+}
